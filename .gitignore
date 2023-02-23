@@ -1,0 +1,4 @@
+phpcs.xml
+vendor
+/wordpress
+.env
